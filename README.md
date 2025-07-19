@@ -58,7 +58,7 @@ Open your browser and go to: http://localhost/project-folder
 🖼️ Screenshots
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/68be27d1-36f0-4f67-8ad4-fc8cc74d5ee6" />
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/47bb538f-4935-43ea-90db-34b592aa51dc" />
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/a9cc701a-9db8-40db-b85c-a1acb4fdeda6" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/a9cc701a-9db8-40db-b85c-a1acb4fdeda6" />
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/fdd5add8-e5d4-4060-b013-021f1ee280eb" />
 
 
